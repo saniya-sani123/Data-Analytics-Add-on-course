@@ -1,15 +1,4 @@
----
-title: "Sentiment analysis"
-author: "saniya k.org"
-date: "10/22/2022"
-output: html_document
-editor_options: 
-  chunk_output_type: console
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Sentiment Analysis
 
