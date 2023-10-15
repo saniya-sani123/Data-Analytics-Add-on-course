@@ -1,8 +1,4 @@
----
-title: "Descriptive Analysis of Research Data"
-output: flexdashboard::flex_dashboard
-runtime: shiny
----
+
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
